@@ -1,1 +1,0 @@
-# trendpulse-meena-bj
