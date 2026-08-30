@@ -1,0 +1,69 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49491568,"Good Culture Is the Biggest Productivity Hack, Not AI",technology,353,80,gpi,2026-08-30 12:45:40.002157,0.22598870056497175,True
+49495845,The Internet Archive's Vintage AI Collection,technology,9,1,OuterVale,2026-08-30 12:45:43.684565,0.1,False
+49486081,"StemDeck, a free, open-source and local AI stem separator",technology,218,61,thclpr,2026-08-30 12:45:44.956682,0.2785388127853881,True
+49485416,I accidentally turned LLM memory into program analysis,technology,285,77,matt_d,2026-08-30 12:45:46.261680,0.2692307692307692,True
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,technology,173,114,speckx,2026-08-30 12:46:00.597496,0.6551724137931034,True
+49492798,Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño,technology,5,0,hasheddan,2026-08-30 12:46:19.761630,0.0,False
+49475079,Luanti removed from Google Play due to baseless AI copyright notice,technology,517,151,miniBill,2026-08-30 12:46:23.755988,0.2915057915057915,True
+49415923,Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention,technology,45,12,boyter,2026-08-30 12:46:30.240239,0.2608695652173913,False
+49489982,"Debian votes to allow ""responsible use of generative AI""",technology,478,446,pluc,2026-08-30 12:46:31.552705,0.9311064718162839,True
+49484925,Identifying fake cosmetics using AI,technology,59,25,wgrover,2026-08-30 12:46:35.457741,0.4166666666666667,False
+49491541,Is the LLM smart or are you not?,technology,6,0,speckx,2026-08-30 12:46:36.751540,0.0,False
+49472820,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,technology,117,36,matt_d,2026-08-30 12:46:38.657862,0.3050847457627119,False
+49474786,Sovereign Tech Agency invests €500k in Flatpak,technology,268,136,eigenspace,2026-08-30 12:46:43.158331,0.5055762081784386,True
+49458875,Humanity has the debate about AI consciousness backwards,technology,116,375,semiquaver,2026-08-30 12:46:48.973334,3.2051282051282053,False
+49464314,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",technology,143,83,pbui,2026-08-30 12:46:49.655585,0.5763888888888888,False
+49458418,CEO fired developers to make room for AI. Developers create open source AI CEO,technology,1023,713,GrumpySciGuy,2026-08-30 12:46:53.525331,0.6962890625,True
+49466715,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,technology,49,31,Salem_robotics,2026-08-30 12:46:57.434355,0.62,False
+49450898,It’s so hard to finish an idea that is not yours and is just suggested by AI,technology,260,188,zazuke,2026-08-30 12:46:59.448909,0.7203065134099617,True
+49447057,The turbulent AI era is here,technology,351,615,nanna,2026-08-30 12:47:06.035338,1.7471590909090908,True
+49451495,Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies,technology,54,24,AlexRisio,2026-08-30 12:47:09.310335,0.43636363636363634,False
+49452990,"Tailcat – Like netcat, but over Tailscale’s data plane",technology,662,129,nderjung,2026-08-30 12:47:15.249531,0.19457013574660634,True
+49495009,Meta Project OT plan to replace employees with AI agents,technology,12,7,elboru,2026-08-30 12:47:25.558530,0.5384615384615384,False
+49477311,AI Agent Has Root,technology,42,68,lowcache,2026-08-30 12:47:26.858963,1.5813953488372092,False
+49492591,"The new Go JSON API: twice as fast, or 1.5x slower?",technology,6,0,ingve,2026-08-30 12:47:39.150224,0.0,False
+49436886,The ArtQrCode a twist on the classic black and white Quick Response Code,technology,11,2,Bluestein,2026-08-30 12:47:39.797097,0.16666666666666666,False
+49491175,Trees for a Changing Climate and Resilient Urban Forest (2022),worldnews,49,8,mooreds,2026-08-30 12:47:41.798309,0.16,False
+49495171,No Country for Mediocre Mathematicians,worldnews,22,6,reasonableklout,2026-08-30 12:47:41.798806,0.2608695652173913,False
+49441316,Global demand for sand spawned a worldwide boom in illegal mining (2015),worldnews,75,29,EndXA,2026-08-30 12:47:41.799132,0.3815789473684211,False
+49464391,"US Government designates host of noblogs.org a ""global terrorist""",worldnews,277,158,robtherobber,2026-08-30 12:47:41.800011,0.5683453237410072,True
+49444232,Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War,worldnews,100,25,jnord,2026-08-30 12:47:57.534401,0.24752475247524752,False
+49422227,Characterizing Agentic Flooding of Government Services,worldnews,81,87,lensecat,2026-08-30 12:49:06.070652,1.0609756097560976,False
+49494936,President Trump Signs Executive Order to Create US Space Academy,worldnews,7,3,efavdb,2026-08-30 12:49:35.574284,0.375,False
+49475404,"Climate change is strengthening El Niño, coral records suggest",worldnews,121,123,shymaple,2026-08-30 12:49:36.225673,1.0081967213114753,False
+49454366,Six government passport CAs that Python rejects and OpenSSL accepts,worldnews,18,6,Eginn-33,2026-08-30 12:50:10.437688,0.3157894736842105,False
+49435495,"Otto Dix, Nietzsche, and the Great War (2019)",worldnews,42,28,samizdis,2026-08-30 12:50:35.433137,0.6511627906976745,False
+49466006,Decompiling a Nintendo 64 game in 84 days,sports,268,180,knackers,2026-08-30 12:50:58.248909,0.6691449814126395,True
+49422784,The entire city of San Francisco as a video game,sports,610,172,centrosphere,2026-08-30 12:50:58.249814,0.281505728314239,True
+49490870,Nancy Grace Roman Space Telescope,science,181,69,JumpCrisscross,2026-08-30 12:51:00.253597,0.3791208791208791,True
+49420524,"Show HN: Galaxium, an experimental WebGPU space explorer",science,115,34,guillaumec,2026-08-30 12:51:00.254117,0.29310344827586204,False
+49493244,What we want is a hunter gatherer lifestyle with space age tools (2022),science,68,75,bilsbie,2026-08-30 12:51:00.254338,1.0869565217391304,False
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,science,117,40,stephenchung,2026-08-30 12:51:00.254479,0.3389830508474576,False
+49477925,Interactive pattern discovery in binaries (FF-16-TUI),science,30,3,HexLasso,2026-08-30 12:51:00.255542,0.0967741935483871,False
+49489564,"Study links listening to live metal improves tolerance for pain, cold",science,6,1,HieronymusBosch,2026-08-30 12:51:00.257407,0.14285714285714285,False
+49466989,Why HPSC Is a Big Deal for Space Exploration,science,27,8,mooreds,2026-08-30 12:51:00.258061,0.2857142857142857,False
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,science,230,108,brandonb,2026-08-30 12:51:00.258128,0.4675324675324675,True
+49467699,Compromising Signal's Contact Discovery Enclave (SGX),science,12,4,RobLach,2026-08-30 12:51:00.258897,0.3076923076923077,False
+49438865,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",entertainment,51,36,gbin,2026-08-30 12:51:02.261428,0.6923076923076923,False
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,entertainment,105,29,andrewww-dev,2026-08-30 12:51:02.261809,0.27358490566037735,False
+49491755,Show HN: Flint – A minimal C/C++ package manager and build tool written in C,entertainment,11,1,mbhatt99,2026-08-30 12:51:02.262611,0.08333333333333333,False
+49476894,Show HN: SubSmith – Turn your own videos into language-learning material,entertainment,73,51,IbrahimF96,2026-08-30 12:51:02.262706,0.6891891891891891,False
+49483038,"Show HN: Sesame - a local-first, open-source password manager",entertainment,61,83,d0mkaaa,2026-08-30 12:51:02.262814,1.3387096774193548,False
+49461817,Show HN: The load-bearing vocabulary of Claude,entertainment,682,321,Labo333,2026-08-30 12:51:02.262978,0.4699853587115666,True
+49491968,Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting,entertainment,7,2,qcfe,2026-08-30 12:51:02.263131,0.25,False
+49471965,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",entertainment,222,57,elyosh,2026-08-30 12:51:02.263443,0.2556053811659193,True
+49489682,"Show HN: The impact that made the Moon, 262k particles in a browser tab",entertainment,6,3,gaploid,2026-08-30 12:51:02.263891,0.42857142857142855,False
+49466704,"Show HN: Watches user sessions, finds bugs that matter, and fixes them",entertainment,38,11,aray07,2026-08-30 12:51:02.263920,0.28205128205128205,False
+49471407,Show HN: We built open OpenRouter that turns usage into a better model,entertainment,216,46,SilenN,2026-08-30 12:51:02.264053,0.2119815668202765,True
+49488996,Show HN: Qwiksi a CLI tool for adding your signature to a PDFs,entertainment,8,0,krisraven,2026-08-30 12:51:02.264226,0.0,False
+49452037,Show HN: Build your own theme park,entertainment,56,25,thealexanderlee,2026-08-30 12:51:02.264391,0.43859649122807015,False
+49483436,Show HN: Hacker News Client with Claude Code and Codex Integration,entertainment,10,0,kamranahmedse,2026-08-30 12:51:02.264706,0.0,False
+49450816,"Show HN: A lightweight, stateless database for agent memory",entertainment,35,12,anuptalwalkar,2026-08-30 12:51:02.264730,0.3333333333333333,False
+49468816,Show HN: Voronoi Go,entertainment,155,26,igpay,2026-08-30 12:51:02.264784,0.16666666666666666,True
+49481956,Show HN: Blast – Open-source sandbox-as-a-service,entertainment,10,0,calebhwin,2026-08-30 12:51:02.264835,0.0,False
+49467551,"Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",entertainment,88,66,sachinneravath,2026-08-30 12:51:02.264851,0.7415730337078652,False
+49437049,Show HN: LatticeDB – Like SQLite but for graph databases,entertainment,187,54,smiths1999,2026-08-30 12:51:02.264877,0.2872340425531915,True
+49445286,Show HN: Buslens – where can I get to by bus? (UK),entertainment,81,55,RobinL,2026-08-30 12:51:02.265110,0.6707317073170732,False
+49465291,Show HN: Restoredrill – proves your Postgres backups restore,entertainment,48,23,ahmadpiran,2026-08-30 12:51:02.265180,0.46938775510204084,False
+49464459,Show HN: RealDiff – runtime behavior diffing for pull requests (six languages),entertainment,40,10,issacnitin,2026-08-30 12:51:02.265382,0.24390243902439024,False
